@@ -299,7 +299,7 @@ I'm a passionate learner on a journey to master Machine Learning and Data Scienc
 
 ## 📅 **Weekly Update**
 
-### **Week 11, 2024**
+### **Week 1, 2026**
 - ✅ Completed ANOVA implementation
 - ✅ Built interactive Streamlit dashboard
 - 🔄 Working on Wine Dataset EDA
@@ -316,5 +316,5 @@ I'm a passionate learner on a journey to master Machine Learning and Data Scienc
 
 *"The science of today is the technology of tomorrow." - Edward Teller*
 
-📍 **Last Updated:** March 14, 2024  
-🚀 **Next Major Update:** Linear Regression Implementation (March 28, 2024)
+📍 **Last Updated:** Feb 01, 2026  
+🚀 **Next Major Update:** Linear Regression Implementation (March 01 , 2026)
